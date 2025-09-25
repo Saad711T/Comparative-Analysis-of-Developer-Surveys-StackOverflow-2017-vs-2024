@@ -7,4 +7,6 @@ Simple journal article published on zenodo and arvix.
 
 ## DOI
 #### Zenodo :
-![doilogo.svg](https://doi.org/10.5281/zenodo.17185468)
+<a href="https://doi.org/10.5281/zenodo.17185468">
+<img src="/images/doilogo.svg" alt="logo" />
+</a>
